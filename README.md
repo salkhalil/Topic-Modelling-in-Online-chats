@@ -1,4 +1,7 @@
 # Topic Modelling in Online Chats
+
+[download rest of files here](https://drive.google.com/drive/folders/13NQzZsDDtu-FVAZS1_BvspqrOIk9-lkQ?usp=sharing)
+
 I initially started with one file and it grew so haven't sorted into folders yet but I've left a description of each file below. Will organise into folders once I have time to change the code which loads the files in each script.
 
 ## Notebooks
